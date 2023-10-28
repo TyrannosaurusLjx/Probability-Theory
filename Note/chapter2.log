@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  17 OCT 2023 19:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.9)  28 OCT 2023 13:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,9 +618,6 @@ Package hyperref Info: Link coloring OFF on input line 23.
 \openout3 = `chapter2.out'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -673,18 +670,27 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 25
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
-] [2]
-(./chapter2.aux)
+]
+Overfull \hbox (8.64783pt too wide) in paragraph at lines 55--56
+[]$\OML/cmm/m/it/12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 o; \OT1/cmr/m/n/12 1)$ \
+TU/SongtiSCLight(0)/m/n/12 称 为 标 准 正 态 分 布，|  密 度 函 数 和 分 布 函 数 记 $\OML/cmm/m/i
+t/12 ^^^; \OT1/cmr/m/n/12 ^^H\OML/cmm/m/it/12 ; ^^^\OT1/cmr/m/n/12 (\OML/cmm/m/
+it/12 x\OT1/cmr/m/n/12 ) = []\OML/cmm/m/it/12 e[]; \OT1/cmr/m/n/12 ^^H(\OML/cmm
+/m/it/12 x\OT1/cmr/m/n/12 ) = [][] \OML/cmm/m/it/12 ^^^\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 t\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 dt$ 
+ []
+
+[2] (./chapter2.aux)
 Package rerunfilecheck Info: File `chapter2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16328 strings out of 476683
- 359089 string characters out of 5804047
+ 16352 strings out of 476683
+ 360713 string characters out of 5804047
  1861018 words of memory out of 5000000
- 36324 multiletter control sequences out of 15000+600000
+ 36348 multiletter control sequences out of 15000+600000
  528240 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,6n,97p,444b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,6n,97p,444b,337s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on chapter2.pdf (2 pages).
